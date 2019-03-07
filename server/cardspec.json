@@ -1,0 +1,32 @@
+{
+  "full_card_face": {
+    "object": "card_face",
+    "name": "Dusk",
+    "mana_cost": "{2}{W}{W}",
+    "type_line": "Sorcery",
+    "oracle_text": "Destroy all creatures with power 3 or greater.",
+    "artist": "Noah Bradley",
+    "illustration_id": "f3d63aed-2784-4ef5-9676-846b1e65e040",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "flavor_text": "Hadana seeks power in the service of peace.",
+    "image_uris": {
+      "small": "https://img.scryfall.com/cards/small/en/rix/158a.jpg?1524752183",
+      "normal": "https://img.scryfall.com/cards/normal/en/rix/158a.jpg?1524752183",
+      "large": "https://img.scryfall.com/cards/large/en/rix/158a.jpg?1524752183",
+      "png": "https://img.scryfall.com/cards/png/en/rix/158a.png?1524752183",
+      "art_crop": "https://img.scryfall.com/cards/art_crop/en/rix/158a.jpg?1524752183",
+      "border_crop": "https://img.scryfall.com/cards/border_crop/en/rix/158a.jpg?1524752183"
+    },
+    "power": "4",
+    "toughness": "4",
+    "color_indicator": [
+      "B",
+      "R",
+      "U"
+    ],
+    "loyalty": "7"
+  }
+}
